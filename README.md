@@ -1,6 +1,6 @@
 # PRUEBA DE INGRESO QA AUTOMATIZADOR
 ---
-**Nombre:** Katherin Pérez Ceballos
+**Nombre:** Katherin Pérez Ceballos         
 **Fecha:** 14/03/2021
 
 ---
