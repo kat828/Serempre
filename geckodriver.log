@@ -1,0 +1,10 @@
+1615786232272	geckodriver	INFO	Listening on 127.0.0.1:56285
+1615786233271	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFWBwiy"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615786237071	Marionette	INFO	Listening on port 39027
+1615786237128	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s3.amazonaws.com/abinbev-co-tienda-cerca-chat-dev.serempre.dev/v2/stage.bundle.js, line 3197: TypeError: Er is null
+1615786278262	Marionette	INFO	Stopped listening on port 39027
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
