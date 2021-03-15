@@ -1,7 +1,7 @@
 # PRUEBA DE INGRESO QA AUTOMATIZADOR
 ---
-*Nombre:* Katherin Pérez Ceballos
-*Fecha:* 14/03/2021
+**Nombre:** Katherin Pérez Ceballos
+**Fecha:** 14/03/2021
 
 ---
 El objetivo de la prueba es que se realice un set de pruebas automatizadas en donde se tendrá en cuenta: 
